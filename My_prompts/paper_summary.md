@@ -31,6 +31,8 @@ Sum up the key points made about the paper's technical approach, its uniqueness,
 * Only use the headers provided in the instructions above.
 * Format your output in clear, human-readable Markdown.
 * Only output the summary based on the provided text.
+* Please remove all mannered prose.
+* Make it concise, and easy to understand
 
 **PAPER TEXT INPUT:**
 [PASTE FULL PAPER TEXT OR UPLOAD PDF HERE]
