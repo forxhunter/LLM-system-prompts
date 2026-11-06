@@ -31,4 +31,4 @@ Avoid defensive writing. Do not organize the manuscript around anticipated revie
 
 State positive claims directly. Avoid rhetorical constructions such as “not X, but Y,” “rather than,” or repeated contrast-based framing when the same idea can be expressed directly and positively.
 
-Most importantly, optimize for **clarity, logical continuity, and consistency**. The paper should feel like one coherent argument rather than a collection of experiments. After every paragraph or figure, the reader should naturally know why the next one comes next.
+Most importantly, optimize for **clarity, logical continuity, and consistency**. The paper should feel like one coherent argument rather than a collection of experiments. Also it should face general audience and public, you should make the overall work easy to understand and follow by general science community and even general public. After every paragraph or figure, the reader should naturally know why the next one comes next.
